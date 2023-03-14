@@ -8,8 +8,7 @@ Publish your resume using Dokku
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
 - [Usage](#usage)
-   - [Running Tests](#running-tests)
-- [Advanced Topics](#advanced-topics)
+   - [Updating your resume](#updating-your-resume)
 - [Roadmap](#roadmap)
 - [Conrtibuting](#contributing)
 
@@ -83,6 +82,7 @@ git push dokku master
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+### Updating your resume
 As you update your resume, push to your main branch and then deploy to your Dokku host via the steps above.
 
 
