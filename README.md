@@ -1,5 +1,7 @@
 # dokku-resume
-Publish your resume using Dokku
+Publish your resume displayed in a stylish, responsive, and easily customizable Bootstrap layout using Dokku
+
+![example](./example.png)
 
 <!-- TABLE OF CONTENTS -->
 ## Table Of Contents
